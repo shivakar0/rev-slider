@@ -11,7 +11,7 @@ function App() {
         data-bgposition="left top"
         data-bgrepeat="no-repeat"
         slideProperties={{
-          'data-transition': "Fly In", // Example animation
+          'data-transition': "Fly In", 
           'data-slotamount': "7",
           'data-masterspeed': "1500"
         }}
